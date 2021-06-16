@@ -1,4 +1,4 @@
-### hei there)))
+### hola, cześć, привет))
 
 <!--
 **kholostyak17/kholostyak17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
