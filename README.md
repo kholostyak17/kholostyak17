@@ -5,9 +5,9 @@
 </div> 
 -->
 
-<h1>Hola, cześć, привет)) <img src = "https://new-retail.ru/upload/iblock/d57/d5711742b0ef7d9366df4cd884c99388.jpg" height = 40px></h1>
+<h1 align="center">Hola, cześć, привет)) <img src = "https://new-retail.ru/upload/iblock/d57/d5711742b0ef7d9366df4cd884c99388.jpg" height = 40px></h1>
 
-<div size='20px'>
+<div size='20px' align="center">
 <div>My name is Iván and I am a Full-Stack Developer.<br/>Thank You for taking the time to view my GitHub Profile) :smile: </div>
 
 ![](https://komarev.com/ghpvc/?username=kholostyak17&color=brightgreen)
@@ -16,11 +16,11 @@
 
 <h2> About Me ✨</h2>
 
-<img width="53%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="60%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 My current role job is Teacher Assistant at 4GeeksAcademy
 
-- 🌱 I’m currently learning <img height ='24px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'> & <img height ='28px' src ='https://www.svgrepo.com/show/303208/php-1-logo.svg'>
+- 🌱 I’m currently learning <img height ='22px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/angularjs.svg'> & <img height ='26px' src ='https://www.svgrepo.com/show/303208/php-1-logo.svg'>
 
 - 👯 I’m looking to collaborate on Front-end and Back-end development projects.
 
