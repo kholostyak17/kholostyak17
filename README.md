@@ -61,7 +61,7 @@
 ![Metrics](https://metrics.lecoq.io/kholostyak17?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Europe%2FMadrid)
 -->
 
-<h3>Contact me in <a href = 'https://www.linkedin.com/in/ivan-jaen-kholostyak17'> <img height = '30px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"/></a> or send me a email to: kholostyak17@gmail.com<h3>
+<h3>Contact me in <a href = 'https://www.linkedin.com/in/ivan-jaen-kholostyak17'> <img height = '30px' align= 'center' src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg"/></a> or send me an email to: kholostyak17@gmail.com<h3>
 
 
 <!--
