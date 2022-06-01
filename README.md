@@ -12,7 +12,7 @@
 <div size='20px' align="center">
   <br/>
     <img src = "https://new-retail.ru/upload/iblock/d57/d5711742b0ef7d9366df4cd884c99388.jpg" height = 70px>
-    <div>Hi, my name is Ivan (or Иван) and I am an ambitious and passionate Software Developer.
+    <div>Hi, my name is Ivan and I am an ambitious Software Developer.
     <br/>I appreciate you taking the time to view my github profile) </div>
   <br/>
 
