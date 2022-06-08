@@ -29,7 +29,7 @@
   <div align="left" width="50%">
     <ul>
       <li>🌆 I'm currently working at <a href= https://io.builders >iobuilders</a> company, and I am very proud of us.</li>
-      <li>🎭 I enjoy working in <i>Backend</i> side with <b>Java ☕</b> but, in addition I am very high skilled with in <i>Frontend</i> side using <b>React ⚛️</b>.</li>
+      <li>🎭 I enjoy working in <i>Backend</i> side with <b>Java ☕</b> but, in addition I am very high skilled with the <i>Frontend</i> side using <b>React ⚛️</b>.</li>
       <li>🦸‍♂️ I really appreciate my time and personal life, so I decided to work from anywhere.</li>
       <li>😈 I speak english, but also more languages)</li>
       <li>🌙 I love the night, the cold, and nature.</li>
