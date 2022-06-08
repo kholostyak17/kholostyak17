@@ -38,7 +38,6 @@
   </div>
 </div>
 
-<br/>
 
 <h2> 
   My skills 
