@@ -24,12 +24,13 @@
 
 <h2>About me 🍃</h2>
 
-<div style="display:flex; flex-direction:row">
+<div>
   <img width=50% align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> 
   <div align="left" width="50%">
     <ul>
-      <li>🌆 I'm currently working at <a href= https://io.builders >iobuilders</a> company, and I am very proud of us.</li>
+      <li>🌆 I am currently working at <a href= https://io.builders >iobuilders</a>, and I am very proud of my company.</li>
       <li>🎭 I enjoy working in <i>Backend</i> side with <b>Java ☕</b> but, in addition I am very high skilled with the <i>Frontend</i> side using <b>React ⚛️</b>.</li>
+      <li>🔥 I am very curious and I love to learn new things <i>(not only as developer)</i>. Still looking for some challenge that I can't achieve.</li>
       <li>🦸‍♂️ I appreciate a lot my time and personal life, so I decided to work from anywhere.</li>
       <li>😈 I speak english, but also more languages)</li>
       <li>🌙 I love the night, the cold, and nature.</li>
